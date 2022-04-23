@@ -261,9 +261,11 @@ section{
 }
 .contact{
     /* background: url(images/to2.jpg); */
-    background: url('https://png.pngitem.com/pimgs/s/93-936618_vegetable-against-white-background-hd-png-download.png');
-    background-size: cover;
-    background-position-x: center;
+    background: url('https://www.bazarsardar.com/wp-content/uploads/2021/03/Tomatoes.jpg');
+    background-size: 500px;
+    background-position-x: right;
+    background-position-y: bottom;
+    background-repeat: no-repeat;
 }
 .contactForm{
     padding: 75px 50px;
